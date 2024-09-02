@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item>
+        <name>Биг Мак</name>
+        <description>Два говяжьих котлета, салат, сыр, маринованные огурцы и фирменный соус в булочке с кунжутом</description>
+        <price>199</price>
+        <category>Бургеры</category>
+    </item>
+    <item>
+        <name>Чизбургер</name>
+        <description>Говяжья котлета, ломтик сыра, лук, маринованные огурцы, кетчуп и горчица в булочке</description>
+        <price>79</price>
+        <category>Бургеры</category>
+    </item>
+    <item>
+        <name>Филе-о-Фиш</name>
+        <description>Рыбное филе, ломтик сыра и тартар соус в мягкой булочке</description>
+        <price>169</price>
+        <category>Бургеры</category>
+    </item>
+    <item>
+        <name>Картофель Фри</name>
+        <description>Хрустящий картофель, жареный во фритюре</description>
+        <price>59</price>
+        <category>Закуски</category>
+    </item>
+    <item>
+        <name>Макчикен</name>
+        <description>Куриная котлета, салат и майонез в булочке с кунжутом</description>
+        <price>149</price>
+        <category>Бургеры</category>
+    </item>
+    <item>
+        <name>Чикен Макнаггетс</name>
+        <description>Кусочки куриного филе, обжаренные в панировке</description>
+        <price>159</price>
+        <category>Закуски</category>
+    </item>
+    <item>
+        <name>Кока-Кола</name>
+        <description>Освежающий газированный напиток</description>
+        <price>59</price>
+        <category>Напитки</category>
+    </item>
+    <item>
+        <name>МакФлурри с Oreo</name>
+        <description>Мороженое с кусочками печенья Oreo и шоколадным сиропом</description>
+        <price>99</price>
+        <category>Десерты</category>
+    </item>
+    <item>
+        <name>Яблочный Пирожок</name>
+        <description>Хрустящий пирожок с начинкой из яблок и корицы</description>
+        <price>49</price>
+        <category>Десерты</category>
+    </item>
+    <item>
+        <name>Кофе Американо</name>
+        <description>Классический черный кофе</description>
+        <price>89</price>
+        <category>Напитки</category>
+    </item>
+</menu>
