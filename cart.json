@@ -1,0 +1,98 @@
+{
+  "shoppingCart": {
+    "cartId": "xyz456",
+    "userId": "user321",
+    "items": [
+      {
+        "itemId": "2001",
+        "itemName": "Чёрный хлеб",
+        "quantity": 1,
+        "pricePerUnit": 40.50,
+        "category": "Продукты"
+      },
+      {
+        "itemId": "2002",
+        "itemName": "Молоко 2.5%",
+        "quantity": 2,
+        "pricePerUnit": 75.00,
+        "category": "Продукты"
+      },
+      {
+        "itemId": "2003",
+        "itemName": "Сметана 20%",
+        "quantity": 1,
+        "pricePerUnit": 95.00,
+        "category": "Продукты"
+      },
+      {
+        "itemId": "2004",
+        "itemName": "Колбаса докторская",
+        "quantity": 1,
+        "pricePerUnit": 350.00,
+        "category": "Продукты"
+      },
+      {
+        "itemId": "2005",
+        "itemName": "Гречневая крупа",
+        "quantity": 2,
+        "pricePerUnit": 120.00,
+        "category": "Продукты"
+      },
+      {
+        "itemId": "2006",
+        "itemName": "Картофель",
+        "quantity": 5,
+        "pricePerUnit": 30.00,
+        "category": "Продукты"
+      },
+      {
+        "itemId": "2007",
+        "itemName": "Сельдь под шубой",
+        "quantity": 1,
+        "pricePerUnit": 250.00,
+        "category": "Готовая еда"
+      },
+      {
+        "itemId": "2008",
+        "itemName": "Шоколад \"Аленка\"",
+        "quantity": 3,
+        "pricePerUnit": 80.00,
+        "category": "Сладости"
+      },
+      {
+        "itemId": "2009",
+        "itemName": "Минеральная вода",
+        "quantity": 6,
+        "pricePerUnit": 45.00,
+        "category": "Напитки"
+      },
+      {
+        "itemId": "2010",
+        "itemName": "Чай \"Greenfield\"",
+        "quantity": 1,
+        "pricePerUnit": 150.00,
+        "category": "Напитки"
+      }
+    ],
+    "totalAmount": 1890.50,
+    "currency": "RUB",
+    "purchaseDate": "2024-09-02T15:45:00Z",
+    "deliveryOptions": {
+      "deliveryMethod": "Самовывоз",
+      "pickupLocation": {
+        "storeName": "Гипермаркет Лента",
+        "street": "ул. Центральная, 5",
+        "city": "Москва",
+        "region": "Московская область",
+        "zipCode": "101000",
+        "country": "Россия"
+      }
+    },
+    "paymentDetails": {
+      "paymentMethod": "Банковская карта",
+      "cardType": "Мир",
+      "lastFourDigits": "4321",
+      "transactionId": "txn9876"
+    }
+  }
+}
